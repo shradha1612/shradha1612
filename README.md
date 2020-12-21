@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on react.js.
 - 🤔 I’m looking for help with PWA.
 - 💬 Ask me about Web technologies.
-- 📫 How to reach me: [Instagram] (https://codewebtech)
+- 📫 How to reach me: [Instagram] (https://instagram.com/codewebtech)
 - 😄 Pronouns: She/her
 
 
