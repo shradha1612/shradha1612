@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full stack webdevelopment ||MERN Stack**
 
-- 🌱 I’m currently learning **PWA,MERN Stack**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **ReactJs**
 
