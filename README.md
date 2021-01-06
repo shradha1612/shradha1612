@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shradhaparkhi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shradhaparkhi" height="30" width="40" /></a>
+<a href="https://twitter.com/codewebtech_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shradhaparkhi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shradha-parkhi-06054b191/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shradha parkhi" height="30" width="40" /></a>
 <a href="https://instagram.com/codewebtech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="codewebtech" height="30" width="40" /></a>
 <a href="https://medium.com/@shradhaparkhi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@shradhaparki" height="30" width="40" /></a>
