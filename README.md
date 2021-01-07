@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **ReactJs**
+- 👯 I’m looking to collaborate on **React.Js**
 
 - 🤝 I’m looking for help with **PWA**
 
