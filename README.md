@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **React.Js**
-
-- 🤝 I’m looking for help with **PWA**
-
 - 📝 I regularly write articles on [https://shradhaparkhi.medium.com/](https://shradhaparkhi.medium.com/)
 
 - 💬 Ask me about **Web technologies**
